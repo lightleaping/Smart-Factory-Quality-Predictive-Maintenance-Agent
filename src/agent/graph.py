@@ -1,4 +1,3 @@
-````python
 # JSON 문자열을 Python dict로 바꾸기 위해 사용합니다.
 #
 # intent classification 단계에서 OpenAI 응답은 JSON 형식의 "문자열"로 돌아옵니다.
